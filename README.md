@@ -8,8 +8,8 @@ for agentic AI, identifying core challenges and gaps, and mapping existing
 standards (IETF, TCG) to the needs of AI-agent attestation.
 
 **Read it online:**
-📄 **[Web page](https://fg-tida.github.io/wg1-ra-aai/)** ·
-📥 **[PDF](https://fg-tida.github.io/wg1-ra-aai/specification.pdf)**
+📄 **[Web page](https://fg-tida-wg1.github.io/wg1-cdra-ra-aai/)** ·
+📥 **[PDF](https://fg-tida-wg1.github.io/wg1-cdra-ra-aai/specification.pdf)**
 
 > **Status:** Draft (v0.1) — work in progress. Sections currently contain author
 > notes marked *[Author: …]* to be filled in.
@@ -56,8 +56,8 @@ To preview your changes on your own machine before opening a pull request.
 **1. Clone your fork** (replace `<your-username>` with your GitHub username):
 
 ```shell
-git clone https://github.com/<your-username>/wg1-ra-aai.git
-cd wg1-ra-aai
+git clone https://github.com/<your-username>/wg1-cdra-ra-aai.git
+cd wg1-cdra-ra-aai
 ```
 
 **2. Install Python 3.10+** (from <https://www.python.org/downloads/>), then
